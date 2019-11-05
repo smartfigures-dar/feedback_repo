@@ -1,5 +1,5 @@
 ---
-name: Figure gallery Bug report
+name: 'Bug report (SmartFigure gallery) '
 about: Create a report to help us improve
 title: ''
 labels: bug
