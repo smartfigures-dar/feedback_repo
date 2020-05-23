@@ -1,5 +1,5 @@
 ---
-name: Website issue
+name: sfb1315-output.de feedback
 about: sfb1315-output.de could be better?
 title: ''
 labels: website
@@ -7,14 +7,13 @@ assignees: jcolomb
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
+**Something to fix!**
 A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
 
-**Describe the solution you'd like**
+**Something to make better**
 A clear and concise description of what you want to happen.
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+**Add content**
+What can I add to make you happy.
+(note you can add your own content via github, ask me for a walkthrough if you like)
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
