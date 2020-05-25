@@ -1,6 +1,6 @@
 ---
 name: sfb1315-output.de feedback
-about: sfb1315-output.de could be better?
+about: wish and problems concerning the website.
 title: ''
 labels: website
 assignees: jcolomb

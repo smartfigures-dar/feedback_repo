@@ -1,12 +1,28 @@
 ---
-name: 'Bug report (SmartFigure gallery) '
-about: Create a report to help us improve
+name: SmartFigure gallery feedback
+about: Report bugs or Suggest an feature for the smart figure gallery
 title: ''
-labels: bug
-assignees: source-data
+labels: smartfigure
+assignees: jcolomb
 
 ---
 
+New features:
+
+**Is your feature request related to a problem? Please describe.**
+A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+
+**Describe the solution you'd like**
+A clear and concise description of what you want to happen.
+
+**Describe alternatives you've considered**
+A clear and concise description of any alternative solutions or features you've considered.
+
+**Additional context**
+Add any other context or screenshots about the feature request here.
+
+
+Bug:
 **Describe the bug**
 A clear and concise description of what the bug is.
 

@@ -1,6 +1,6 @@
 ---
-name: Gin use, problems and feedback
-about: Any question/problem about GIN use ?
+name: GIN feedback
+about: Any question/problem/wish about GIN use ?
 labels: 'GIN-question'
 assignees: jcolomb
 
